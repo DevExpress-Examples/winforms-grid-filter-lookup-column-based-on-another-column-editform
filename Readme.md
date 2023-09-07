@@ -3,17 +3,20 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T120863)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-<!-- default file list -->
-*Files to look at*:
 
-* **[FormDifferentSources.cs](./CS/FilterLookUpsEditForm/FormDifferentSources.cs) (VB: [FormDifferentSources.vb](./VB/FilterLookUpsEditForm/FormDifferentSources.vb))**
+# WinForms Data Grid - Filter a lookup column based on a value in another lookup column (Edit Form)
+
+Read the following topic for additional information: [How to filter a second LookUp column based on a first LookUp column's value in EditForm](https://supportcenter.devexpress.com/ticket/details/t127025/how-to-filter-a-second-lookup-column-based-on-a-first-lookup-column-s-value-in-editform).
+
+
+## Files to Review
+
+* [FormDifferentSources.cs](./CS/FilterLookUpsEditForm/FormDifferentSources.cs) (VB: [FormDifferentSources.vb](./VB/FilterLookUpsEditForm/FormDifferentSources.vb))
 * [FormSingleSource.cs](./CS/FilterLookUpsEditForm/FormSingleSource.cs) (VB: [FormSingleSource.vb](./VB/FilterLookUpsEditForm/FormSingleSource.vb))
-<!-- default file list end -->
-# How to filter a second LookUp column based on a first LookUp column's value in EditForm
 
 
-<p>This is an example for the <a href="https://www.devexpress.com/Support/Center/p/T127025">How to filter a second LookUp column based on a first LookUp column's value in EditForm</a> Knowledge Base article. Please refer to the article for the explanation.<br />Note that the <a href="https://documentation.devexpress.com/#windowsforms/DevExpressXtraGridViewsGridGridView_EditFormPreparedtopic">GridView.EditFormPrepared</a> event is used in this example. This event appeared in version 13.2.7.<br />If you are using previous versions (13.1.x - 13.2.6), create a custom EditForm as described in the <a href="https://documentation.devexpress.com/#windowsforms/CustomDocument16215">Custom Edit Form</a> help topic and use the approach for standalone editors from the <a href="http://isc.devexpress.com/Thread/WorkplaceDetails/A237">How to filter a second LookUp column based on a first LookUp column's value</a> KB article.</p>
+## Documentation
 
-<br/>
-
-
+* [ComboBox Mode - Enter New Values](https://docs.devexpress.com/WindowsForms/116019/controls-and-libraries/editors-and-simple-controls/lookup-editors/combobox-mode-allow-entering-new-values)
+* [Lookup Main Settings](https://docs.devexpress.com/WindowsForms/116029/controls-and-libraries/editors-and-simple-controls/lookup-editors/lookup-editors-and-main-settings)
+* [WinForms Data Grid - Edit Data in a Separate Form](https://docs.devexpress.com/WindowsForms/753/controls-and-libraries/data-grid/data-editing-and-validation/modify-and-validate-cell-values#edit-data-in-a-separate-form)
